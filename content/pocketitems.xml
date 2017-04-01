@@ -1,0 +1,22 @@
+<pocketitems>
+	<pilleffect name="Damage Is As Damage Does" hud="Damage done did it" />
+	<pilleffect name="Show Me Some Love" hud="Maybe"/>
+	<pilleffect name="Infinite Recursion?" hud="Definition: See Recursion" />
+	<pilleffect name="Don't you just hate audits..." hud="Why oh why did I lie on my taxes..." />
+</pocketitems>
+
+<!--Item ideas
+- Mac Fanboy : Makes all items bought from the shop twice as expesive
+
+
+Ideas : Pill/item/or otherwise
+	<pilleffect name="Polymorphism" hud="Gives Isaac a random transformation." />
+	<pilleffect name="Null Pointer Exception" hud="" />
+	<pilleffect name="Stack Overflow" hud="" />
+	<pilleffect name="Let Me Google That For You" hud="" />
+	<pilleffect name="" hud="" />
+
+	The Keybinding of Isaac - DVORAK: Remap keys to dvorak layout
+
+	Usiboft (Ubisoft) Game: Stops working on every floor unless you buy the DLC in each floors shop
+- -->

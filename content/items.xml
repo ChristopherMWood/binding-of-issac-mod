@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Death Note" description="Someone has to do it, so why not me?" gfx="DeathNote_Icon.png" maxcharges="3" />
+</items>
